@@ -1,6 +1,6 @@
 {
   "name": "@sourcengineer/mui-extended",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Extended Mui components",
   "scripts": {
     "rollup": "rollup -c",
