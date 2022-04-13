@@ -2,7 +2,7 @@ import { Button } from "@mui/material";
 import React from "react";
 
 export type ExtendedButtonProps = {
-  text?: string;
+  text: string;
 };
 
 function ExtendedButton({ text }: ExtendedButtonProps) {
